@@ -63,6 +63,12 @@ export default StyleSheet.create({
     marginBottom: 20,
     fontFamily: "NotoSansJP-Regular",
   },
+  modalSubitle: {
+    fontSize: 16,
+    marginTop: 10,
+    marginBottom: 10,
+    fontFamily: "NotoSansJP-Regular",
+  },
   shadow: {
     shadowColor: "#000",
     shadowOffset: {
